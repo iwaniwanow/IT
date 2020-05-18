@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:students xmlns:ns2="de.vogella.xml.jaxb.model">
+    <studentList>
+        <student>
+            <name>Iliyan Koychev</name>
+            <username>u1</username>
+            <password>u1</password>
+            <bio>I have worked very hard on Java Servlets, but I need to do Android as well or else Asssistant Dobrev will kill me and smash my head in the wall, as his patience is reaching zero.</bio>
+        </student>
+        <student>
+            <name>Iliyan Boychev</name>
+            <username>u2</username>
+            <password>u2</password>
+        </student>
+        <student>
+            <name>Peter Peev</name>
+            <username>u3</username>
+            <password>u3</password>
+        </student>
+        <student>
+            <name>New Profile5</name>
+            <username>u5</username>
+            <password>u5</password>
+        </student>
+    </studentList>
+</ns2:students>
